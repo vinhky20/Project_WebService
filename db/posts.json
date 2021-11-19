@@ -1,0 +1,91 @@
+[{
+  "_id": {
+    "$oid": "619493415dc041d51d6c95ec"
+  },
+  "name": "Cần Thơ",
+  "description": "Được mệnh danh là thủ phủ của miền Tây. Các địa điểm du lịch Cần Thơ luôn thu hút rất nhiều du khách trong và ngoài nước muốn tìm hiểu và khám phá văn hóa, ẩm thực của con người nơi đây.",
+  "image": "https://i.ytimg.com/vi/1fNjWHF2zKM/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLA-xO9v_zNZz62Jg01hmjZMoC1PSw",
+  "videoId": "1fNjWHF2zKM",
+  "level": "Cần Thơ gạo trắng nước trong – Ai đi đến đó lòng không muốn về” là câu ca dao gắn liền với mảnh đất trù phú Cần Thơ. Nét hiện đại của phố xen lẫn với mộc mạc bình dị của miệt vườn miền Tây quanh năm ngập tràn cây trái là địa điểm du lịch Cần Thơ đầy cuốn hút đặc biệt của vùng đất này. Tất tần tật cẩm nang du lịch Cần Thơ từ A đến Z sẽ giới thiệu cho bạn những điều thú vị về vùng đất này nhé. Đến với Cần Thơ, bạn sẽ được trải nghiệm rất nhiều địa điểm du lịch nổi tiếng, những món ăn đặc sản của miền sông nước và được tận tay “mục sở thị” vườn cây trái xanh tươi cùng sự thân thiện và mến khách của con người nơi đây đã làm mê đắm du khách gần xa. Dưới đây là những địa điểm du lịch Cần Thơ nổi tiếng nhất định bạn phải ghé khi đến đây. Người dân miền Tây quanh năm sông nước, với bản chất hiền hậu, mến khách gắn liền với những ghe xuồng mộc mạc. Cuộc sống của họ được diễn ra ngay trên sông từ việc ăn, ngủ, đi chợ, giao lưu mua bán và trao đổi hàng hóa. Cần Thơ có khu chợ nổi tiếng nào đã được lên nhiều báo chí trong nước và quốc tế? Đó chính là chợ nổi Cái Răng.",
+  "deleted": false,
+  "createdAt": {
+    "$date": "2021-11-17T05:29:37.686Z"
+  },
+  "updatedAt": {
+    "$date": "2021-11-19T04:15:56.674Z"
+  },
+  "slug": "can-tho",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6194a04f5dc041d51d6c960e"
+  },
+  "name": "Sapa",
+  "description": "Sapa được mẹ thiên nhiên ưu ái ban tặng những cảnh đẹp mà không đâu có được. Không cần những gì hào nhoáng, sang chảnh. Du khách yêu thích Sapa ở chính cái vẻ đẹp mộc mạc, hoang sơ, đặc trưng của núi rừng Tây Bắc. Hãy cùng Mytour khám phá những địa điểm du lịch Sapa nổi bật nhất mà ai cũng nên trải nghiệm một lần trong đời.",
+  "image": "https://i.ytimg.com/vi/Ae3P4N0NaQY/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLA-xO9v_zNZz62Jg01hmjZMoC1PSw",
+  "videoId": "Ae3P4N0NaQY",
+  "level": "Cách trung tâm thị trấn Sapa khoảng 8km về phía Đông, bạn cần phải vượt qua một đoạn đèo và một trạm thu phí để đến thung lũng Mường Hoa. Khi đặt chân đến nơi đây, bạn sẽ ấn tượng bởi nhiều bãi đá với hàng trăm tảng đá cổ nằm xen lẫn giữa những thửa ruộng bậc thang và cây cỏ, núi rừng. Những tảng đá được chạm khắc với nhiều họa tiết, hoa văn khác nhau. Nhiều năm qua, các nhà khảo cổ học và sử học đã nghiên cứu nguồn gốc và ý nghĩa của những họa tiết đó, nhưng tất cả vẫn còn là ẩn số.  Khung cảnh nơi đây thật nên thơ, trữ tình, nhất là vào mùa lúa chín. Bên cạnh đó, len lỏi qua thung lũng là một dòng suối xinh đẹp, róc rách chảy qua các xã Hầu Thào, Lao Chải, Tả Van và kết thúc tại Bản Hồ.",
+  "deleted": false,
+  "createdAt": {
+    "$date": "2021-11-17T06:25:19.140Z"
+  },
+  "updatedAt": {
+    "$date": "2021-11-19T03:22:06.257Z"
+  },
+  "slug": "sapa",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6197232c8aa2a0852eb069f6"
+  },
+  "name": "Đà Nẵng",
+  "description": "Du lịch Đà Nẵng – nơi được mệnh danh là “thành phố đáng đến nhất Việt Nam” – nơi đây đang dần trở thành điểm sáng của cả nước trong lĩnh vực du lịch, thu hút hàng triệu lượt du khách mỗi năm bởi vẻ trẻ trung, văn minh, và hiện đại.",
+  "image": "https://i.ytimg.com/vi/HkuxcFenfq8&t=2s/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLA-xO9v_zNZz62Jg01hmjZMoC1PSw",
+  "videoId": "dlTwXSJZuto",
+  "level": "Nằm cách Hà Nội 776 km về phía Bắc, cách TP.HCM 961 km về phía Nam và tiếp giáp với cố đô Huế, Đà Nẵng có trục giao thông Bắc – Nam với cả đường bộ, đường sắt và đường biển cắt qua, đồng thời là cửa ngõ giao lưu với các tỉnh thuộc khu vực Tây Nguyên. Không chỉ có vậy, Đà Nẵng là trung tâm được bao quanh bởi ba di sản nổi tiếng thế giới như: Cố đô Huế, Thánh địa Mỹ Sơn và Phố cổ Hội An. Ngoài ra, vùng biển của thành phố này bao gồm cả huyện đảo Hoàng Sa. Do đó, Đà Nẵng là thành phố có vị trí đắc địa và vô cùng quan trọng cả về du lịch, giao lưu kinh tế, giao thương buôn bán và quân sự quốc phòng.Đà Nẵng là vùng mang kiểu khí hậu nhiệt đới gió mùa điển hình với nền  nhiệt chung khá cao và ít có sự biến động. Đà Nẵng có sự giao thoa giữa hai kiểu khí hậu  cận nhiệt đới ở miền Bắc và nhiệt đới xa van miền Nam nhưng ảnh hưởng nhiều hơn bởi khí hậu nhiệt đới ở phía nam. Do đó nơi đây cũng có hai mùa rõ rệt là mùa mưa (tháng 8 – tháng 9- tháng 10- tháng 11- tháng 12) và mùa khô ( tháng 1 – tháng 2 – tháng 3 – tháng 4 – tháng 5 – tháng 6- tháng 7). Đà Nẵng có tuyến đường sắt Bắc – Nam cắt qua nên đây cũng là phương tiện được nhiều người lựa chọn khi di chuyển đến Đà Nẵng bởi giá cả hợp lý, lại vừa được nhìn ngắm cảnh quan bên ngoài suốt một hành trình dài. Giá vé cho một chuyến đi như vậy khá rẻ, với nhiều mức tùy thuộc vào loại vé như giường nằm hay ghế ngồi mà dao động trung bình từ 300.000 – 1.200.000 đồng. Có một điều thuận lợi là khi xuống ga Đà Nẵng bạn đã ở ngay trung tâm thành phố nên việc di chuyển từ đây đến các thành phố khác khá thuận tiện. Từng được được bình chọn là bãi biển xinh đẹp quyến rũ nhất hành tinh bởi tạp chí Forbes của Mỹ. Chỉ cách trung tâm thành phố Đà Nẵng khoảng 3 km, nhìn từ trên cao xuống, biển Mỹ Khê là một dải màu xanh mênh mông và khi đến nơi mới thấy vẻ đẹp bùng lên rực rỡ.\r\n\r\nBãi biển Mỹ Khê thu hút rất nhiều du khách bởi vẻ hoang sơ, bờ cát trắng mịn, sóng vỗ hiền hòa trong bầu không khí rất dịu mát và trong lành. Đến với Đà Nẵng du khách nên một lần đến đây để trải nghiệm một buổi sớm bình minh lấp lánh như, tỏa ra từ chân trời như một vùng hào quang và đắm mình trong dòng nước mát lạnh.",
+  "deleted": false,
+  "createdAt": {
+    "$date": "2021-11-19T04:08:12.286Z"
+  },
+  "updatedAt": {
+    "$date": "2021-11-19T04:10:29.802Z"
+  },
+  "slug": "da-nang",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "619725878aa2a0852eb06a1f"
+  },
+  "name": "Hà Nội",
+  "description": "Thủ đô Hà Nội không chỉ nổi tiếng với các địa danh lịch sử văn hiến lâu đời mà còn có những điểm tham quan đẹp lãng mạn. Bởi vậy nhiều bạn đi du lịch Hà Nội cứ hỏi thủ đô có gì chơi là vì có nhiều địa điểm du lịch Hà Nội thú vị đến nỗi không biết nên chọn điểm nào chứ không phải là Hà Nội không có gì tham quan đâu nha.",
+  "image": "https://i.ytimg.com/vi/CF6EfmErAxg/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLA-xO9v_zNZz62Jg01hmjZMoC1PSw",
+  "videoId": "CF6EfmErAxg",
+  "level": "Thời gian để tới Hà Nội đẹp nhất là vào mùa thu, khoảng độ từ tháng 8, tháng 9, tháng 10. Trong đó lý tưởng nhất nên đến Hà Nội vào tháng 9 hay tháng 10. Vì khi này, mùa mưa ở Hà Nội thường đã kết thúc. Trời tạnh ráo, ánh nắng không quá gắt. Nhiệt độ ở mức trung bình, không khí mát mẻ. Tất cả các yếu tố thời tiết trên tạo điều kiện tốt nhất để du khách có một hành trình khám phá Hà Nội tuyệt vời nhất. Còn nếu với những du khách ưa thích không khí lạnh, có phần buốt rét, thì những tháng cuối năm như tháng 11, tháng 12 sẽ là một gợi ý không tệ để du lịch tham quan Hà Nội. Đến Hà Nội vào khoảng thời gian này, bên cạnh việc tham quan các địa điểm du lịch nổi tiếng, du khách còn có thể thưởng thức nhiều món ăn đặc sản mùa đông ngon ở Hà Nội. Hồ Hoàn Kiếm là thắng cảnh nổi tiếng ở Hà Nội, có vị trí kết nối giữa khu phố cổ gồm các phố Hàng Ngang, Hàng Đào, Cầu Gỗ, Lương Văn Can, Lò Sũ… với khu phố Tây do người Pháp quy hoạch cách đây hơn một thế kỷ là Bảo Khánh, Nhà thờ, Tràng Thi, Hàng Bài, Đinh Tiên Hoàng, Tràng Tiền, Hàng Khay, Bà Triệu. Hồ Hoàn Kiếm là khu vực trung tâm của thủ đô Hà Nội, vì vậy các bạn có thể đến đây dễ dàng bằng phương tiện cá nhân hay phương tiện công cộng.",
+  "deleted": false,
+  "createdAt": {
+    "$date": "2021-11-19T04:18:15.233Z"
+  },
+  "updatedAt": {
+    "$date": "2021-11-19T04:18:15.233Z"
+  },
+  "slug": "ha-noi",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "619726338aa2a0852eb06a24"
+  },
+  "name": "Phú Quốc",
+  "description": "Kinh nghiệm du lịch   Lưu Đảo Phú Quốc thuộc tỉnh Kiên Giang, được mệnh danh là đảo ngọc, là hòn đảo lớn nhất Việt Nam nằm trong vịnh Thái Lan. Đảo Phú Quốc nổi tiếng với những bãi biển trong xanh, những dòng suối yên bình và hải sản tươi ngon.",
+  "image": "https://i.ytimg.com/vi/v2DbDXWyG_Y/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLA-xO9v_zNZz62Jg01hmjZMoC1PSw",
+  "videoId": "v2DbDXWyG_Y",
+  "level": "Phú Quốc có 3 hướng tham quan chính: Bắc Đảo, Nam Đảo và Đông Đảo. Thông thường khi đến đây, du khách thường dành 3 ngày để lần lượt khám phá các hướng tham quan này.\r\n \r\nNhững địa danh ở Bắc Đảo gồm vườn quốc gia Phú Quốc, khu vực núi Hàm Rồng, Gành Dầu và Cửa Cạn; biển bãi Dài, bãi biển đẹp nhất Phú Quốc với vẻ đẹp của biển xanh, cát trắng, hàng dương xanh cao vút; suối Đá Ngọn, suối Đá Bàn. Đền thờ Nguyễn Trung Trực hay khu du lịch Vinpearl Land là những điểm đến hấp dẫn trong hành trình khám phá Bắc Đảo của bạn.\r\n \r\nĐiểm tham quan nổi tiếng nhất của Nam Đảo nói riêng và Phú Quốc nói chung là nhà tù Phú Quốc. Các điểm dừng chân tiếp theo ở Nam Đảo là Bãi Sao – bãi biển hoang sơ và tuyệt đẹp tại Phú Quốc, chinh phục suối Tranh, khám phá vương quốc hồ tiêu xanh ngút ngàn, tham quan nhà thùng làm nước mắm và chiêm ngưỡng các trang sức ngọc trai tại các cơ sở nuôi cấy.\r\n \r\nNổi bật nhất ở Đông Đảo là thị trấn Dương Đông với hai địa danh Dinh Cậu và chợ đêm Dinh Cậu. Ngoài ra, nếu có thời gian, bạn đừng quên tạt vào bảo tàng Cuội Nguồn, bảo tàng tư nhân thứ 9 ở Việt Nam, nơi lưu giữ những câu chuyện về hòn đảo Phú Quốc và Chùa Sư Muôn (Hùng Long tự) cổ kính.\r\n \r\nNgoài ra, tại Phú Quốc có những hoạt động thú vị bạn không nên bỏ qua như câu cá, lặn ngắm san hô, câu mực đêm hay chèo kayak ở bãi Khem.\r\n\r\nMột số lễ hội truyền thống của người dân huyện đảo Phú Quốc bạn có thể tham gia như Lễ hội Nguyễn Trung Trực, bắt đầu từ ngày 27/8 âm lịch ở xã Gành Dầu, cách trung tâm huyện đảo Phú Quốc gần 40km. Lễ Hội Dinh Bà Ông Lang, nằm cách trung tâm thị trấn Dương Đông 7km, từ mặt lộ đến Dinh Bà khoảng 1km, hàng năm cứ vào ngày 18, 19 tháng giêng âm lịch mọi người điều đổ sô về đây thấp hương, hành lễ cầu mong mọi điều tốt lành mưa thuận gió hào, làm ăn được mùa. ",
+  "deleted": false,
+  "createdAt": {
+    "$date": "2021-11-19T04:21:07.531Z"
+  },
+  "updatedAt": {
+    "$date": "2021-11-19T04:21:07.531Z"
+  },
+  "slug": "phu-quoc",
+  "__v": 0
+}]
