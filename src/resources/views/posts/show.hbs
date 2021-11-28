@@ -5,7 +5,7 @@
         <div class="col-md-6 px-0">
           <h1 class="display-4 font-italic">{{post.name}}</h1>
           <p class="lead my-3">{{post.description}}</p>
-          <p class="lead mb-0"><a href="#" class="text-white font-weight-bold">Continue reading...</a></p>
+          <p class="lead mb-0"><a href="#detail" class="text-white font-weight-bold">Continue reading...</a></p>
         </div>
       </div>
       <iframe width="100%" height="600" src="https://www.youtube.com/embed/{{post.videoId}}"
@@ -16,7 +16,7 @@
       <div class="blog-post">
         <h2 class="blog-post-title">{{post.name}}</h2>
 
-        <p>{{post.level}}</p>
+        <p id="detail">{{post.level}}</p>
       </div>
     </div>
   </div>
