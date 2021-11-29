@@ -81,40 +81,46 @@
 <script>
     document.addEventListener('DOMContentLoaded', function () {
         var postId;
+        //Chọn form delete
         var deleteForm = document.forms['delete-post-form'];
+        // 
         var containerForm = document.forms['container-form']
+        // Nút xác nhận xoá bài viết trong modal
         var btnDeletePost = document.getElementById('btn-delete-post');
+        // check box tất cả
         var checkboxAll = $('#checkbox-all');
+        // check box của từng dòng dữ liệu
         var postItemCheckbox = $('input[name="postIds[]"]');
+        // Nút thực hiện
         var checkAllSubmitBtn = $('.check-all-submit-btn');
 
-        // When dialog confirm clicked
+        // Khi nút xoá bài viết được nhấp vào -> lấy được id của bài viết đó (postId)
         $('#delete-post-modal').on('show.bs.modal', function (event) {
             var button = $(event.relatedTarget);
-            postId = button.data('id');
+            postId = button.data('id'); // dùng jquery lấy dc id của bviet
         });
 
-        // When delete post btn clicked
+        // Khi nút xác nhận xoá bviet trong modal được click
         btnDeletePost.onclick = function () {
             deleteForm.action = '/posts/' + postId + '?_method=DELETE';
-            deleteForm.submit();
+            deleteForm.submit(); //submit form xoá bài viết (dòng 79)
         }
 
-        // Checkbox all clicked
+        // Khi nút chọn tất cả được click
         checkboxAll.change(function () {
             var isCheckedAll = $(this).prop('checked');
             postItemCheckbox.prop('checked', isCheckedAll);
             renderCheckAllSubmitBtn();
         });
 
-        // post item checkbox changed
+        // khi ô checkbox của từng bviet thay đổi -> ô checkbox tất cả cũng sẽ thay đổi theo
         postItemCheckbox.change(function () {
             var isCheckedAll = postItemCheckbox.length === $('input[name="postIds[]"]:checked').length;
             checkboxAll.prop('checked', isCheckedAll);
             renderCheckAllSubmitBtn();
         });
 
-        // Check all submit button clicked
+        // Khi thực hiện được click
         checkAllSubmitBtn.click('submit', function (e) {
             var isSubmittable = !$(this).hasClass('disabled');
             if (!isSubmittable) {
@@ -122,7 +128,7 @@
             }
         })
 
-        // Re-render check all submit btn
+        // Nút thực hiện sẽ có thể sử dụng hoặc là disable khi các checkbox của tất cả bviet ko được checked
         function renderCheckAllSubmitBtn() {
             var checkedCount = $('input[name="postIds[]"]:checked').length;
             if (checkedCount > 0) {

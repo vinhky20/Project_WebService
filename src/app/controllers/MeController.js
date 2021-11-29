@@ -17,19 +17,6 @@ class MeController {
             )
             .catch(next);
 
-        // Post.countDocumentsDeleted()
-        //     .then((deletedCount) => {
-        //         console.log(deletedCount);
-        //     })
-        //     .catch(() => {});
-
-        // Post.find({})
-        //     .then(posts => {
-        //         res.render('me/stored-posts', {
-        //             posts: multipleMongooseToObject(posts)
-        //         });
-        //     })
-        //     .catch(next);
     }
 
     // [GET] /me/trash/posts
