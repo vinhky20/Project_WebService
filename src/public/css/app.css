@@ -34,3 +34,6 @@ h2 {
   text-decoration: none;
   outline: 0;
   opacity: 0.3; }
+
+#detail {
+  font-size: 24px; }
