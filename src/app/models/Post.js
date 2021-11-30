@@ -13,7 +13,7 @@ const Post = new Schema({
     videoId: { type: String, required: true, },
     level: { type: String },
     slug: { type: String, slug: 'name', unique: true },
-    // Thêm khoá unique với giá trị true để ko bị trùng slug khi tạo khoá học giống nhau
+    // Thêm khoá unique với giá trị true để ko bị trùng slug khi tạo bài viết giống nhau
 }, {
     timestamps: true,
 });
